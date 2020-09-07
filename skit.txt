@@ -1,0 +1,29 @@
+Console.WriteLine("Hur gammal är din pappa? ");
+
+            age = Console.ReadLine();
+
+            Console.Clear();
+
+            Console.WriteLine("Din karaktär heter " + name + " och snart fyller " + age + " år." + Environment.NewLine);
+
+            Console.WriteLine("Tryck enter för att fortätta");
+
+            Console.ReadLine();
+
+            Console.Clear();
+
+            Console.WriteLine("Han är klädd i " + color + " och bär med sig en skitig Gucci väska" + Environment.NewLine);
+
+            Console.WriteLine("Tryck enter för att fortätta");
+
+            Console.ReadLine();
+
+            Console.Clear();
+
+            Console.WriteLine("Slut");
+
+            Console.ReadLine();
+
+            Console.Clear();
+
+            Console.WriteLine("Btw din mamma tjock haha");
